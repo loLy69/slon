@@ -1,0 +1,31 @@
+
+
+body  {
+    box-sizing: border-box;
+    cursor: url('./img/cursor-ussual.png'), pointer;
+    font-family: Lato, sans-serif;
+    color: #424551;
+    line-height: 160%;
+    background-image: url('../img/homyk.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.pidor{
+    text-align: center;
+    align-items: center;
+}
+
+.slon{
+    text-align: center;
+    align-items: center;
+}
+
+
+
